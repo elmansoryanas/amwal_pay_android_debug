@@ -5,6 +5,6 @@
 #   - mvn install:install-file -Dfile=./smart_auth_debug/1.0/smart_auth_debug-1.0.aar  -DgroupId=com.github.elmansoryanas -DartifactId=smart_auth_debug -Dversion=1.0.0 -Dpackaging=aar -DpomFile=./smart_auth_debug/1.0/smart_auth_debug-1.0.pom
 
 project:
-  - module: amwal_pay_debug
-    dir: amwal_pay_debug
-    artifact: ./flutter_debug/1.0/flutter_debug-1.0.aar
+  - module: amwal_debug
+    dir: amwal_debug
+    artifact: flutter_debug-1.0.aar
