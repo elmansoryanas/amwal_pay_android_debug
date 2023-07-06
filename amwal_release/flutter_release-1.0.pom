@@ -39,19 +39,19 @@
     <dependency>
       <groupId>com.github.elmansoryanas.amwal_pay_android_debug</groupId>
       <artifactId>share_plus_release</artifactId>
-      <version>1.0</version>
+      <version>1.9</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.github.elmansoryanas.amwal_pay_android_debug</groupId>
       <artifactId>path_provider_android_release</artifactId>
-      <version>1.0</version>
+      <version>1.9</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.github.elmansoryanas.amwal_pay_android_debug</groupId>
       <artifactId>smart_auth_release</artifactId>
-      <version>1.0</version>
+      <version>1.9</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
